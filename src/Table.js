@@ -34,7 +34,7 @@ state = {
 	password = prompt('Enter your password for shuffle !')
 	if (password === pass1){
 
-		let arrayRoom = ['Samy', 'Flore', 'Vivyane', 'Pierre', 'Delaine']
+		let arrayRoom = ['Samy', 'Flore', 'Vivyane', 'Pierre']
 
   //Shuffle the array
   let roomate = shuffle(arrayRoom)
