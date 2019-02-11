@@ -73,9 +73,9 @@ state = {
       <thead>
         <tr>
           <th><h1>Week of</h1></th>
-          <th><h1>14/01 </h1></th>
-          <th><h1>21/01</h1></th>
-          <th><h1>28/01</h1></th>
+          <th><h1>11/02 </h1></th>
+          <th><h1>18/02</h1></th>
+          <th><h1>25/02</h1></th>
         </tr>
       </thead>
       <tbody className="blabla">
