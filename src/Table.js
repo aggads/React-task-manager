@@ -34,7 +34,7 @@ state = {
 	password = prompt('Enter your password for shuffle !')
 	if (password === pass1){
 
-		let arrayRoom = ['Samy', 'Flore', 'Vivyane', 'Pierre', 'Somoene']
+		let arrayRoom = ['Samy', 'Flore', 'Vivyane', 'Pierre', 'Someone']
 
   //Shuffle the array
   let roomate = shuffle(arrayRoom)
@@ -107,7 +107,7 @@ state = {
           <td className="week5">Salle de bain</td>
           <td  className="case1">{this.state.roomates[4]}</td>
           <td  className="case2">{this.state.roomates[1]}</td>
-          <td  className="case3">{this.state.roomates[2]}</td>
+          <td  className="case3">{this.state.roomates[0]}</td>
         </tr>
       </tbody>
     </table>
